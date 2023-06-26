@@ -10,6 +10,6 @@ including kalman filter,lms filter and winnie filter
 fill the audio filepath at line-3 and the noise filepath at line-96,and run the .mlx file with matlab and the audio file denoised will be written as a mp3 file at the filepath.
 填充第3行的音频文件路径和第96行的噪声文件路径，并用matlab运行.mlx文件，去噪后的音频文件将在文件路径中写入mp3文件。
 
-## Connect ME 联系
-please connect me @ fromthefox@icloud.com if you have any question.
+## Contact ME 联系
+please contact me @ fromthefox@icloud.com if you have any question.
 THX.
